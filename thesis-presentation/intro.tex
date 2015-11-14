@@ -1,0 +1,79 @@
+% Tác giả: Hoàng Văn Khoa
+% Email: hoangvankhoa@outlook.com
+
+\begin{frame}
+  \centerline{Trường Đại học Bách Khoa Hà Nội}
+  \centerline{Viện Công nghệ Thông tin và Truyền thông}
+  \titlepage % Print the title page as the first slide
+\end{frame}
+
+\begin{frame}
+  \frametitle{Nội dung}
+  \tableofcontents
+  \note
+  {
+    Nội dung mà em trình bày gồm n phần.
+    Đầu tiên, em xin được giới thiệu vấn đề.
+  }
+\end{frame}
+
+\section{Đặt vấn đề và giới thiệu bài toán}
+
+\subsection{Đặt vấn đề}
+
+% Nêu ra những bài toán thực tế
+\begin{frame}
+  \frametitle{Đặt vấn đề}
+  \begin{itemize}[<+->]
+  \item Là một bài toán có nhiều ứng dụng thực tế
+    \begin{itemize}
+      \item phân loại và đánh giá trang web
+      \item lọc thư rác, tin nhắn rác
+      \item phân loại sách báo
+      \item \ldots
+    \end{itemize}
+  \item Chưa có nhiều công cụ, thư viện hỗ trợ phân loại văn bản Tiếng Việt
+  \note{
+    Trong thời đại bùng nổ thông tin hiện nay, những hướng nghiên cứu về nhận dạng và xử lí văn bản là rất cần thiết, là bước tiền xử lí cho nhiều quá trình để trích xuất thông tin có ích, đặc biệt là các văn bản Tiếng Việt. Tuy nhiên, Tiếng Việt lại chưa nhận được sự hỗ trợ nhiều như Tiếng Anh. Do vậy, nhóm em quyết định thực hiện đề tài này.
+  }
+  \end{itemize}
+\end{frame}
+
+\subsection{Phát biểu bài toán}
+
+\begin{frame}
+  \frametitle{Phát biểu bài toán}
+  \begin{itemize}[<+->]
+    \item
+    \begin{block}{Yêu cầu bài toán}
+      Cho một tập hợp các bài báo, phân loại các bài báo này vào các nhóm đã biết cho trước.
+    \end{block}
+  
+    \item
+    \begin{block}{Ý tưởng chung}
+      Sử dụng thuật toán phân loại Na\"\i ve Bayes
+    \end{block}
+    \end{itemize}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Đặc điểm của đề tài}
+  \begin{itemize}[<+->]
+    \item Vấn đề tách từ cho Tiếng Việt
+    \note{
+      Trong Tiếng Việt, dấu cách không được sử dụng như một kí hiệu phân tách từ, nó chỉ có tác dụng phân tách các tiếng với nhau.
+      Vấn đề từ đơn, từ ghép.
+    }
+      \begin{itemize}[<+->]
+        \item Xâu đầu vào: ``Đây là một ví dụ đơn giản minh họa cho việc sử dụng công cụ Đông Du để tách từ.``
+        \item Xâu đầu ra:  ``Đây là một ví\_dụ đơn\_giản minh\_họa cho việc sử\_dụng công\_cụ Đông\_Du để tách\_từ .``
+      \end{itemize}
+    \item Vấn đề trích ra tập các từ khóa
+      \begin{itemize}[<+->]
+        \item Xâu đầu vào: ``Việt\_Nam tái khẳng\_định chủ\_quyền đối\_với hai quần\_đảo Hoàng\_Sa và Trường\_Sa, sau khi Chủ\_tịch Trung\_Quốc nói rằng các quần\_đảo này là "của Trung\_Quốc".``
+        \item Các từ ý nghĩa thấp: tái, đối\_với, và, sau, khi, là, \ldots
+        \item Xâu đầu ra:  ``Việt\_Nam chủ\_quyền Hoàng\_Sa Trường\_Sa Chủ\_tịch Trung\_Quốc Trung\_Quốc``
+      \end{itemize}
+    \end{itemize}
+\end{frame}

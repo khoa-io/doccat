@@ -1,0 +1,106 @@
+Những mẫu laptop tốt nhất năm 2015
+
+  Laptop siêu mỏng của Apple sử dụng cổng Thunderbolt 2, nâng cấp vi xử lý Core i thế hệ thứ 5 (Broadwell). Riêng trên phiên bản 13 inch, Apple trang bị ổ SSD của Samsung với tốc độ nhanh gấp đôi so với loại trên bản 11 inch sử dụng ổ SSD của SanDisk.
+
+
+  
+      
+
+
+  Với MacBook Air 11 inch, cấu hình bao gồm chip Core i5 tốc độ 1,6 GHz, RAM 4 GB. Bộ nhớ trong 128 GB có giá 20,5 triệu đồng hoặc 24,7 triệu đồng với bản 256 GB.
+
+
+  Chiếc MacBook Pro Retina 15 inch mới được cập nhật vi xử lý Intel Core i7 thế hệ 5 (Broadwell), với hiệu năng xử lý và đồ họa tích hợp (Iris Graphics 6100) cao hơn. Ổ SSD của máy được nâng cấp cho tốc độ đọc/ghi nhanh hơn rất nhiều so với phiên bản trước, cổng Thunderbolt thế hệ thứ 2 và quan trọng nhất là bàn di cảm ứng lực Force Touch mới.
+
+
+  
+      
+
+
+  Ngoài chip Intel Broadwell, card đồ họa trên MacBook Pro 15 inch mới cải thiện 80% hiệu suất nhờ dùng loại AMD Radeon R9 M370X. Mức giá khởi điểm cho MacBook Pro 15 inch không đổi, từ 1999 USD, gồm chip Core i7 bốn nhân tốc độ 2,2 GHz, RAM 16 GB, bộ nhớ PCIe 256 GB và đồ họa Intel Iris Pro. Bản cao cấp với giá 2.499 USD gồm chip Core i7 2,5 GHz, bộ nhớ flash gấp đôi, lên 512 GB và card AMD Radeon R9 M370X với 2 GB GDDR5.
+
+
+  Dell XPS 13 (2015) vẫn giữ nguyên kích thước màn hình là 13.3 inch với viền benzels siêu mỏng quanh màn hình của máy với độ dày chỉ 5.2mm. Dell còn cải tiến rất nhiều trên màn hình của máy với việc trang bị 1 màn hình cảm ứng có độ phân giải cao 1800 x 3200. Đó là 1 sự thay đổi rất lớn khi so với độ phân giải 1366 x 768 của các phiên bản trước.
+
+
+  
+      
+
+
+  Về mặt thiết kế, Dell XPS 13 (2015) vẫn không thay đổi nhiều so với các phiên bản XPS 13 trước đây, máy được hoàn thiện bằng chất liệu nhôm và sợi cacbon, nặng 1.17kg và trên phiên bản có màn hình cảm ứng là 1.26kg.
+
+
+  Lenovo's ThinkPad T450s sở hữu bộ vi xử lý Intel Core i5-5300U tốc độ 2.3 GHz, được hỗ trợ bằng bộ nhớ RAM 8GB và bộ nhớ lưu trữ SSD 256GB, cấu hình này của ThinkPad T450s đủ mạnh mẽ để xử lý bất kỳ công việc nào. Nó là chiếc máy tính xách tay lý tưởng cho những công việc văn phòng, T450s chỉ mất 4 phút 41 giây để hoàn thành các thử nghiệm Laptop Mag Spreadsheet Macro, nó nhanh hơn so với mức trung bình (5p41) và
+  nhanh hơn 33 giây so với người anh em T440s (5p14). MacBook Pro có khả năng tốt hơn khi hoàn thành bài thử nghiệm trong 3 phút 28 giây.
+
+
+  
+      
+
+
+  Mặc dù ThinkPad T450s không phải là một máy tính chơi game, nhưng nhờ vào việc sử dụng bộ vi xử lý đồ họa Intel HD Graphics 5500 nên nó đủ nhanh để có thể chơi được những game đòi hỏi đồ họa trung bình. Khi chúng tôi thử chơi World of Warcraft, T450s đạt tốc độ cao khi chơi ở 36fps với độ phân giải cài đặt mặc định 1080p, tốt hơn nhiều so với MacBook Pro (24 fps).
+
+
+  Toshiba trang bị cho Chromebook 2 một bộ vi xử lý Intel Celeron N2840 tốc độ cơ bản 2.16GHz và có thể tăng lên đến 2.58GHz khi cần thiết. Toshiba cũng cung cấp một bộ nhớ RAM 4GB DDR3 1600MHz, nhiều hơn so với những gì bạn đã thấy trên các chiếc Chromebook khác như: Lenovo N20p và Samsung Chromebook 2.
+
+
+  
+      
+
+
+  Chromebook 2 của Toshiba là một chiếc máy tính xách tay tiện dụng, nó phù hợp với những công việc thường xuyên phải di chuyển. Nó không sở hữu cấu hình quá mạnh, không làm việc với những đòi hỏi “khủng” như những chiếc máy tính xách tay thực thụ, vì nó không thể vừa xem bộ phim chuẩn HD 1080p với hơn 10 tab trình duyệt web được sử dụng. Nhưng nó vẫn đáp ứng được những công việc cơ bản cho người dùng, để họ có thể làm việc được ở bất kỳ đâu, bất kỳ thời gian nào.
+
+
+  Kích thước của Dell Inspiron 17 là 1.1 x 16.2 x 10.6 inches (HWD). Kích thước này lớn hơn một chút so với chiếc Acer Aspire V3. Vỏ máy có những lỗ li ti để tạo độ bám khi cầm trên tay và chống bám vân tay. Màn hình và khung máy được liên kết bởi bản lề nhựa rất chắc chắn.
+
+
+  
+      
+
+
+  Inspiron 17 được trang bị chip lõi tứ Intel Pentium 3558U với xung nhịp 1.7GHz. Bộ nhớ hệ thống DDR3 dung lượng 4GB và card đồ họa Intel HD 4400. Mặc dù cấu hình này chưa thể gọi là “khủng” nhưng nó đủ mạnh để phục vụ các nhu cầu học tập và làm việc hàng ngày của bạn.
+
+
+  Nếu bạn là một người năng động yêu thích sự gọn nhẹ và tiện dụng thì HP Stream 11 là một sự lựa chọn không thể bỏ qua, chiếc máy này được HP công bố cách đây gần 1 năm và đến nay vẫn gây được rất nhiều sự chú ý với thiêt kế 2 màu rực rỡ là xanh da trời và hồng và mức giá cực kì cạnh tranh là khoảng 5 triệu đồng. Với giá này, HP Stream 11 trở thành chiếc laptop tốt nhất nhưng rẻ nhất mà bạn nên mua.
+
+
+  
+      
+
+
+  HP stream 11 được coi là quân bài chủ lực của HP trong cuộc cạnh tranh khốc liệt với Chrome Book của Google được trang bị màn hình 11,6 inch với độ phân giải 1366x768 pixel, bộ nhớ trong của máy là 32GB, bộ vi xử lí Intel Celeron 2.16 GHz và sở hữu RAM 2GB.
+
+
+  Không chỉ tập trung vào thị trường điện thoại, mới đây, Asus đã phát hành thêm một chiếc laptop mới mang tên Chromebook Flip C100, đây là một máy tính xách tay giá rẻ với thiết kế rất đặc biệt, có thể gập phần màn hình ra tới 360 độ.
+
+
+  
+      
+
+
+  Bên trong Chromebook Flip C100 có chip xử lý Rockchip 3288-C bốn nhân Cortex-A17 tốc độ 1.8GHz, hỗ trợ bộ xử lý đồ hoạ Mali T624, RAM 2GB hoặc 4GB, bộ nhớ trong 16GB. Asus cũng cho biết sản phẩm này sẽ có thời lượng pin vào khoảng 9 tiếng, phiên bản RAM 2GB có giá khoảng 249 USD (~5.4 triệu đồng) trong khi bản RAM 4GB có giá 299 USD (~6.5 triệu đồng). Mức giá rất hợp với sinh viên học sinh.
+
+
+  Là một trong những máy tính xách tay đầu tiên có thể chơi trò chơi ở độ phân giải 4K, Asus ROG G751JT khá đắt tiền nhưng có khả năng thay thế máy tính chơi game để bàn.
+
+
+  
+      
+
+
+  Asus ROG G751JT sở hữu màn hình 17-inch kết hợp một CPU Core i7 cao cấp, 24GB RAM, SSD 256GB kết hợp với một HDD, 1TB 7200rpm và cuối cùng, GPU GeForce 980M mới. Cấu hình này có giá $ 2,499 (£ 1949 tại Anh, và AU $ 3,986 cho một cấu hình với bộ nhớ RAM nhiều hơn và một ổ cứng lớn hơn).
+
+
+  Không chỉ ấn tượng bởi vẻ ngoài mỏng nhẹ với các tùy chọn màu sắc hấp dẫn, Zenbook UX305 còn là mẫu laptop đầu tiên được Asus trang bị phần cứng thế hệ mới, trong đó đáng chú ý nhất chính là sự hiện diện của bộ xử lý Intel Core M kiến trúc Broadwell.
+
+
+  
+      
+
+
+  Máy sử dụng vật liệu nhôm cao cấp được gia công khá tỉ mỉ, nhất là phần lưng màn hình trông khá bắt mắt và không kém phần sang trọng. Để có được thiết kế mỏng nhẹ (điểm dày nhất của thân máy chỉ 12,3 mm, cân nặng 1,2 kg), Zenbook UX305 đã được Asus loại bỏ hoàn toàn thiết kế tản nhiệt chủ động sử dụng quạt tản nhiệt thông thường.
+
+
+  Kiều Hương (T.H)
+
+

@@ -1,0 +1,10 @@
+
+Apple tiếp tay với NSA?
+
+
+Hãng công nghệ hàng đầu thế giới Apple, trong một tuyên bố qua trang tin All Things D, vừa khẳng định họ chưa bao giờ hợp tác với Cơ quan An ninh quốc gia Mỹ (NSA) để tạo ra một kỹ thuật theo dõi dành cho các sản phẩm của mình, bao gồm cả các dòng điện thoại thông minh iPhone.
+Apple cũng trấn an người dùng rằng nếu họ phát hiện được bất kỳ lỗ hổng bảo mật nào, hãng cũng sẽ cố gắng hết sức điều tra và thực hiện các biện pháp phòng chống hacker. “Dù cho đó có là ai đi chăng nữa” - Apple mạnh mẽ tuyên bố.
+Tuyên bố này được đưa ra trong bối cảnh một tài liệu vừa tiết lộ về chương trình mang tên DROPOUTJEEP thực hiện năm 2008 bởi NSA. Theo đó, DROPOUTJEEP cho phép kích hoạt theo dõi hình ảnh từ camera và âm thanh từ microphone của iPhone, đồng thời thu thập thông tin file dữ liệu, danh sách liên lạc, tin nhắn, vị trí...
+Chuyên gia an ninh mạng Jacob Appelbaum khẳng định chương trình này chỉ có thể hoạt động với sự trợ giúp của chính Apple. Tuy nhiên, các tài liệu bị tiết lộ mô tả việc Cục Điều tra Liên bang Mỹ (FBI), NSA và Cơ quan Tình báo trung ương (CIA) phải trực tiếp đoạt lấy thiết bị để cài đặt phần mềm theo dõi. Tài liệu của DROPOUTJEEP cũng nhắc đến việc cần phải cài đặt phần mềm này trực tiếp nhưng đó chỉ là những phiên bản đầu. Các phiên bản tương lai của chương trình theo dõi này có thể được cài đặt từ xa.
+Ngoài DROPOUTJEEP, còn nhiều tài liệu nữa cho thấy nhân viên an ninh có thể điều khiển bất kỳ loại điện thoại GSM nào bằng các biện pháp khác chứ không chỉ với iPhone. Trước đó, tài liệu về chương trình thu thập thông tin PRISM cũng đã cho thấy sự hợp tác của các hãng công nghệ Mỹ, trong đó có Apple, để thu thập thông tin trực tiếp từ máy chủ của họ. Tuy nhiên, tất cả công ty này cũng đã lần lượt phủ nhận.
+ 

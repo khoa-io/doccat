@@ -1,0 +1,47 @@
+Tìm ra cách khiến tế bào ung thư máu tự diệt nhau
+Bệnh bạch cầu hay căn bệnh ung thư ảnh hưởng đến tủy xương và máu, nổi
+tiếng là khó chữa trị và hay tái phát. Tuy nhiên, một nghiên cứu mới công bố
+trên tạp chí Proceedings of the National Academy of Sciences đã mang tới hy vọng
+cho những người mắc bệnh bạch cầu sau khi hé lộ rằng, chúng ta có thể khiến các
+tế bào ung thư máu tự tiêu diệt lẫn nhau.
+
+
+Nói một cách chính xác hơn, các chuyên gia đến từ Viện nghiên cứu Scripps
+(TSRI) ở Mỹ đã tìm ra một kỹ thuật dẫn dụ các tế bào ung thư máu biến thành các
+tế bào miễn dịch truy sát bệnh bạch cầu, viết lại chương trình lập trình sinh
+học của chúng. Chìa khóa của kỹ thuật này là một kháng thể cực hiếm ở người.
+Các kháng thể là những protein do hệ miễn dịch của người sản sinh ra một cách
+tự nhiên. Chúng đóng vai trò như "còng tay" của "cảnh sát" tế bào bạch cầu, bám
+dính vào những kẻ xâm nhập ngoại lai như vi trùng và trực tiếp vô hiệu hóa chúng
+hoặc đánh dấu chúng để hệ miễn dịch tấn công phá hủy.
+Gần đây, các nhà khoa học đang nỗ lực tìm kiếm các liệu pháp kháng thể để
+điều trị cho những người bị khiếm khuyết tế bào miễn dịch, trong đó tủy xương
+không sản xuất ra đủ các tế bào máu trắng. Họ hy vọng có thể tìm ra các kháng
+thể sẽ kích hoạt những cảm thụ quan trên các tế bào tủy xương chưa trưởng thành,
+khiến chúng biến đổi thành các tế bào trưởng thành. 
+Trong vài năm trở lại đây, các nhà khoa học đã thành công trong nỗ lực trên.
+Tuy nhiên, điều mà họ không hy vọng được chứng kiến là một số ít các kháng thể
+kích thích tăng trưởng này biến thành các tế bào tủy xương chưa trưởng thành
+thành những dạng hoàn toàn khác, chẳng hạn như các tế bào thường được tìm thấy
+trong hệ thần kinh.
+Bệnh bạch cầu tủy cấp tính (AML) là một dạng bệnh bạch cầu đặc biệt "hung
+hăng", tấn công các tế bào tủy sống, vốn chịu trách nhiệm đối phó với các chứng
+nhiễm khuẩn, ký sinh trùng và ngăn chặn sự lan truyền tổn thương mô, trong cơ
+thể. Các bệnh nhân AML sản sinh ra quá nhiều tế bào bạch cầu trong tủy xương,
+quấy nhiễu quá trình sản sinh bình thường của các loại tế bào máu khác.
+Các nhà nghiên cứu đã cho tràn ngập các kháng thể kích thích tăng trưởng vào
+một mẫu máu người giàu tế bào AML nguy hiểm. Kết quả là, các kháng thể đã biến
+các tế bào AML thành những tế bào hình cây, vốn đóng vai trò hỗ trợ then chốt
+bên trong hệ miễn dịch của chúng ta. Khi tiếp xúc lâu hơn với các kháng thể,
+những tế bào này đã được hoàn thiên hơn thành các tế bào sở hữu dáng vẻ và hoạt
+động tương tự như những tế bào chuyên săn tìm và tiêu diệt các mối đe dọa trong
+cơ tể, kể cả các virus, vi khuẩn và các tế bào ung thư.
+Các tế bào "sát thủ tự nhiên" (NK) này cho thấy khả năng tiêu diệt tới 15% tế
+bào ung thư máu "anh em trước kia" trong một mẫu bệnh phẩm chỉ trong vòng 1
+ngày. Đáng kinh ngạc là, những tế bào NK dường như chỉ bám sát và tấn công mình
+dạng tế bào AML, không phải các loại tế bào ung thư khác.
+Nhóm nghiên cứu hy vọng, kỹ thuật có tên gọi "liệu pháp anh em tương tàn" này
+có thể được sử dụng để biến đổi một loạt các loại tế bào ung thư khác nhau thành
+các tế bào NK nhất định, để thực sự chữa khỏi hẳn cho bệnh nhân ung thư.
+Tuấn Anh(theo IFLScience)
+

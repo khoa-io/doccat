@@ -1,0 +1,85 @@
+% Tác giả: Hoàng Văn Khoa
+% Email: hoangvankhoa@outlook.com
+
+\section{Định hướng giải pháp}
+
+\subsection{Tách từ Tiếng Việt}
+
+\begin{frame}
+  \frametitle{Tách từ Tiếng Việt}
+  
+  \begin{itemize}[<+->]
+    \item phương pháp ghép cực đại: sử dụng từ điển, đặt các từ vào câu sao cho phủ hết câu đó
+    \note{ưu điểm: nhanh; nhược điểm: độ chính xác thấp, không xử lí được từ có trong từ điển}
+    \item các phương pháp học máy như đồ thị hóa, hidden Markov, conditional random field, maximum entropy
+      \begin{itemize}[<+->]
+        \item phương pháp Support Vector Machine (SVM) đi kèm pointwise => thư viện Đông Du (C/C++)
+        \note{Sử dụng bản sửa đổi của thư viện Đông Du để tiến hành tách từ trên Python}
+        \item So sánh dongdu và vnTokenizer
+          \begin{flushleft}
+            \begin{table}[p]
+              \begin{tabular}{|l|l|l|}
+                \hline
+                Tiêu chí & vnTokenizer & dongdu \\ \hline
+                Độ chính xác & 97,2\% & 98,2\% \\ \hline
+                Thời gian (giây) & 194,672 & 26,2 \\ \hline
+                RAM (MB) & 19,8 & 15,1 \\ \hline
+              \end{tabular}
+              \caption{So sánh dongdu và vnTokenizer}
+            \end{table}
+          \end{flushleft}
+      \end{itemize}
+  \end{itemize}
+  
+\end{frame}
+
+
+\subsection{Trích xuất từ khóa}
+
+\begin{frame}
+  \frametitle{Trích xuất từ khóa}
+  
+  \begin{itemize}[<+->]
+    \item Xếp hạng từ có ý nghĩa cao hay thấp dựa vào trọng số tf.idf
+    \item Từ có ý nghĩa cao là:
+    \begin{itemize}
+      \item Xuất hiện nhiều lần trong một (lớp) văn bản (đồng biến với số lần sử dụng trong (lớp) văn bản)
+      \item Xuất hiện ít trong các (lớp) văn bản khác (nghịch biến với số (lớp) văn bản sử dụng nó)
+    \end{itemize}
+    \item Công thức tính: $w_{tf.idf}(t, d) = w_{tf}(t, d) * idf(t)$
+    \begin{itemize}
+      \item \[ w_{t, d} = \left\{
+        \begin{array}{l l}
+          1 + \log{tf_{t,d}} & \quad \text{nếu $tf_{t,d} > 0$}\\
+          0 & \quad \text{nếu ngược lại} 
+        \end{array} \right.\]
+      \item $tf_{t,d}$ là số lần từ $t$ được sử dụng trong văn bản $d$
+      \item $idf(t) = \log{N/df_{t}}$ với $N$ là số văn bản trong bộ dữ liệu, $df_{t}$ là số văn bản chứa từ $t$
+    \end{itemize}
+  \end{itemize}
+  
+\end{frame}
+
+\subsection{Giải thuật phân loại Na\"\i ve Bayes}
+
+\begin{frame}
+  \frametitle{Tập học và tập kiểm thử}
+  
+  \begin{itemize}[<+->]
+    \item Kích thước tập học
+    \item Độ phong phú của tập học
+    \item Số từ khóa trích xuất ra
+    \item Đánh giá độ chính xác bằng phương pháp hold-out
+  \end{itemize}
+  
+\end{frame}
+
+\begin{frame}
+  \frametitle{Giai đoạn phân loại}
+  
+  \begin{itemize}[<+->]
+    \item Giá trị likelihood của văn bản $d$ đối với $c_{i}$: $\log{P(c_{i})} + \log{(\Pi_{t_{j} \in T\_d} (t_j | c_j))} $
+    \item Phân lớp văn bản $d$ thuộc lớp $c^{*}$: $c^{*} = argmax_{c_i \in C} (\log{P(c_{i})} + \log{(\Pi_{t_{j} \in T\_d} (t_j | c_j))})$
+  \end{itemize}
+  
+\end{frame}

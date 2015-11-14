@@ -1,0 +1,28 @@
+Smartphone Samsung Galaxy tiềm ẩn nhiều lỗ hổng bảo mật
+
+          Dòng điện thoại Galaxy của Samsung chứa nhiều lỗ hổng bảo mật.
+        
+
+  Báo cáo từ các nhà nghiên cứu bảo mật của Google cho biết, smartphone Galaxy S6 Edge của Samsung đang chứa tới 11 lỗ hổng nguy hiểm. Nguyên nhân không phải do nền tảng Android gốc của Google mà là phiên bản Android tùy biển bởi các nhà sản xuất, trong trường hợp này là của Samsung. Ngoài S6 Edge, nhiều dòng smartphone Galaxy khác của Samsung cũng "dính" các lỗ hổng
+  này.
+
+
+  Cụ thể, theo bản báo cáo này, lỗ hổng an ninh xuất hiện do một số thay đổi bên trong nhân Android của Samsung trên Galaxy S6 Edge. Cũng như nhiều nhà sản xuất điện thoại Android khác, Samsung đã tùy biến Android
+  với các ứng dụng và giao diện người dùng riêng.
+
+
+  Chia sẻ trên các blogspot của Google, một chuyên gia bảo mật cho biết: "Nhìn chung, chúng tôi đã tìm thấy rất nhiều lỗ hổng bảo mật nghiêm trọng trên các smartphone của Samsung. Dù các thiết bị này đã được trang bị một số tính năng bảo vệ khác, nhưng chúng chỉ khiến các cuộc tấn công trở nên chậm đi mà thôi. Các khu vực yếu nhất trên smartphone của Samsung có lẽ là phần driver cho thiết bị và bộ xử lý tín hiệu số. Ngay khi chúng tôi thực hiện màn thử nghiệm, các lỗi này đã lập tức lộ diện".
+
+
+  Đặc biệt có 3 lỗ hổng dễ bị lợi dụng nhất nằm trong bộ dịch vụ của Samsung được gọi là WifiHs20UtilityService, phần Samsung Email client (Lỗ hổng này khiến dịch vụ email của Samsung bị bỏ qua các bước kiểm tra bảo mật, giả mạo các Intent trên Android) và phần SELinux.
+
+
+  Những lỗ hổng này có thể giúp tin tặc tấn công bằng một tin nhắn đa phương tiện có nhúng mã độc. Google đã phát hành bản vá lỗ hổng này, nhưng hiện hầu hết điện thoại Android vẫn chưa thể được cập nhật.
+
+
+  So với nền tảng iOS của Apple, Android được đánh giá là kém an toàn hơn.
+
+
+  Kiều Hương (T.H)
+
+

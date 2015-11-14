@@ -1,0 +1,42 @@
+% Tác giả: Hoàng Văn Khoa
+% Email: hoangvankhoa@outlook.com
+% Tệp: config-presentation.tex
+% Định dạng và cấu hình bài trình chiếu cho ra bản trình chiếu
+
+\mode<presentation> {
+
+\usetheme{Antibes}
+
+\setbeamertemplate{footline}
+{
+  \leavevmode%
+  \hbox{%
+    \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+      \usebeamerfont{author in head/foot}\insertshorttitle
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+      \usebeamerfont{title in head/foot}\insertshortsubtitle
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
+      \usebeamerfont{date in head/foot}\insertshortdate{}\hspace*{2em}
+      \insertframenumber{} / \inserttotalframenumber\hspace*{2ex} 
+    \end{beamercolorbox}}%
+  \vskip0pt%
+}
+}
+
+\usepackage{graphicx} % Allows including images
+\usepackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule in tables
+% Các gói hỗ trợ ngôn ngữ
+\usepackage[utf8]{inputenc}
+\usepackage[T1,T2A,T5]{fontenc}
+\usepackage[utf8]{vietnam}
+\usepackage[main=vietnamese,english]{babel}
+%%%%%%%%%
+\usepackage{url}
+\usepackage{pgfplots}
+\usepackage{amsmath,amsthm,amsfonts,amssymb} % Các gói liên quan đến soạn thảo công thức toán học và font toán học
+\usepackage[mathscr]{euscript}
+
+\setcounter{tocdepth}{1} % only show section in table of contents
+\inputencoding{utf8}

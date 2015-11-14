@@ -1,0 +1,7 @@
+VN tiếp cận công nghệ vi mạch của Nhật
+Ngày 7.11, tại hội thảo chuyên đề về phát triển công nghệ SOTB có sự hiện diện của lãnh đạo UBND TP.HCM và các sở, ban, ngành của TP cùng đại diện Công ty Renesas (Nhật Bản), Công ty INOSO (Mỹ), Trung tâm nghiên cứu và đào tạo thiết kế vi mạch (ICDREC) thuộc ĐH Quốc gia TP.HCM đã công bố bản thỏa thuận đã được ký kết với Công ty Renesas (Nhật Bản) về việc hợp tác phát triển công nghệ SOTB (Silicon on Thin BOX) trong các lĩnh vực đào tạo, chuyển giao công nghệ, chế tạo thử nghiệm... tại VN.
+SOTB - công nghệ thiết kế và chế tạo vi mạch tiên tiến, đang được phát triển và ứng dụng ở Nhật Bản, Mỹ, Pháp... 
+Ông Ngô Đức Hoàng, thành viên Ban Chỉ đạo Chương trình phát triển công nghiệp vi mạch TP nhấn mạnh việc tiếp cận công nghệ SOTB là cơ hội lớn của vi mạch VN, vì nó giải quyết bài toán công suất thấp trong các ứng dụng IoT (Internet of Things - Kết nối vạn vật) hiện đang phát triển mạnh mẽ. 
+Ở đây, các thiết bị tiêu thụ công suất thấp và các thiết bị dùng pin là một phần không thể thiếu trong xu thế này. Những thiết bị này yêu cầu công suất tiêu thụ rất thấp nhưng vi mạch có độ phức tạp và tích hợp ngày càng cao đã kéo theo sự gia tăng về công suất tiêu thụ. 
+Do đó, SOTB đã tạo ra cuộc cách mạng giảm công suất tiêu thụ cho vi mạch. Chính vì thế, công nghệ SOTB sẽ là công nghệ nòng cốt giúp VN nhanh chóng trở thành một trong những nước đi đầu trong lĩnh vực thiết kế vi mạch nói chung và trong Chương trình phát triển công nghiệp vi mạch TP.HCM nói riêng.
+
