@@ -1,5 +1,0 @@
-Cách kiểm tra nhanh lỗ hổng bảo mật trên thiết bị Android
-(TNO) VTS for Android là một ứng dụng mã nguồn mở miễn phí có thể kiểm tra điện thoại hoặc máy tính bảng của bạn trước 22 lỗ hổng có trên nền tảng Android.
-VTS for Android sẽ đưa ra những cảnh báo về lỗ hổng có trên thiết bị Android - Ảnh chụp màn hình
-VTS for Android sẽ đưa ra những cảnh báo về lỗ hổng có trên thiết bị Android - Ảnh chụp màn hình
-

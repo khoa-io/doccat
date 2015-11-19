@@ -1,0 +1,39 @@
+iOS 9.1 của Apple sẽ chặn đứng jailbreak?
+
+  
+      
+
+
+  Sáng ngày 22/10 (theo giờ Việt Nam), Apple đã chính thức tung ra phiên bản iOS 9.1. Đây là bản cập nhật lớn nhất của Apple kể từ khi tung ra bản iOS 9 vào tháng 9 vừa qua.
+
+
+  iOS 9.1 có dung lượng khoảng 307 MB, được Apple mang đến bộ mã Unicode 7 và 8, đồng thời bổ sung thêm 150 biểu tượng cảm xúc (emoji) cho bàn phím của iOS.
+
+
+  Khác với phần lớn các bản cập nhật lớn x.1 trước đây, iOS 9.1 tập trung vào sửa lỗi hơn là phát triển các tính năng mới. Trong đó, iOS mới cũng cải thiện tính năng Live Photos trên iPhone 6s và iPhone 6s Plus mới, khi máy tự nhận biết tư thế cầm để quyết định có ghi hình chuyển động hay không.
+
+
+  Đặc biệt, với phiên bản iOS 9.1 mới ra mắt, Apple đã khắc phục hai lỗ hổng bảo mật từng bị nhóm hacker Pangu phát hiện và lợi dụng để truy cập vào hệ thống của iPhone và jailbreak. Do đó hiện tại nếu bạn cập nhật lên iOS 9.1 sẽ không có công cụ nào để jailbreak.
+
+
+  Trước đó, tại hội nghị dành cho các nhà phát triển WWDC 2015, Apple đã giới thiệu hệ điều hành iOS 9 dành cho iPhone, iPad và iPod Touch.
+
+
+  Điểm nhấn đầu tiên mà Apple nhắc đến chính là trợ lý ảo Siri trở nên thông minh hơn. Với tính năng có tên Proactive, Siri có thể đề nghị chạy các ứng dụng và nhiều tiện ích khác dựa trên bối cảnh thời gian hoặc địa điểm cụ thể của người dùng.
+
+
+  Tương tự như Google Now, trợ lý ảo của Apple có thể thông báo khoảng cách còn bao xa, mất bao thời gian để tới điểm hẹn dựa trên vị trí hiện tại và tình hình giao thông cũng như gợi ý mở ứng dụng nhạc khi người dùng cắm tai nghe vào máy.
+
+
+  Trên iOS 9, người dùng cũng có thể tìm kiếm sâu hơn vào các nội dung bên trong bất kỳ ứng dụng nào khi thực hiện tìm kiếm trên toàn hệ thống. Spotlight cũng có thể chuyển đổi các đơn vị đo chiều dài, thể tích... mà không cần mở ứng dụng bên thứ 3.
+
+
+  Sau khi Apple tung ra hệ điều hành iOS 9 cùng hai "siêu phẩm" iPhone 6S và iPhone 6S Plus thì người dùng đã gặp không ít vấn đề với hệ điều hành mới này.
+
+
+  Để khắc phục, "Nhà Táo" đã lần lượt tung ra bản cập nhật iOS 9.0.1 và bản 9.0.2. Theo đó, các kĩ sư công nghệ của Apple đã tung ra bản cập nhật iOS 9.0.2 để vá các lỗ hổng nghiêm trọng về bảo mật.
+
+
+  Kiều Hương (T.H)
+
+

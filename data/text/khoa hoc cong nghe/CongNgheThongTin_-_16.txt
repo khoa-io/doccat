@@ -1,8 +1,0 @@
-Camera thời thực tế ảo
-Hãng Lytro vừa công bố một dạng camera hoàn toàn mới, tên Lytro Immerge, được thiết kế một cách vô cùng đặc biệt để ghi lại những hình ảnh từ các trải nghiệm thực tế ảo (VR). 
-
-
-Với bề ngoài giống như một quả cầu của người ngoài hành tinh, camera được trang bị hàng trăm ống kính nhỏ xíu và các cảm biến hình ảnh, tất cả đều được chế tạo để bắt được toàn bộ “trường ánh sáng” bên ngoài, có nghĩa là không chỉ thu được màu sắc và cường độ của ánh sáng, mà còn ghi nhận hướng di chuyển của nó. 
-Trên hết, Immerge không chỉ là một camera đơn thuần, mà Lytro còn mở ra một viễn cảnh tạo dựng cả hệ thống hoàn chỉnh để sản xuất phim thực tế ảo, từ camera, máy chủ, các công cụ chỉnh sửa, truyền dữ liệu từ mây điện toán và thậm chí cung cấp ứng dụng tiêu dùng cho các thiết bị VR. 
-Theo nhà sản xuất Lytro, đây là hệ thống trường ánh sáng đầu tiên có thể tạo ra phim hành động VR có chất lượng giống rạp chiếu phim. 
-

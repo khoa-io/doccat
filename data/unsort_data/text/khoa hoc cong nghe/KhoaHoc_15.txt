@@ -1,0 +1,13 @@
+
+            Nhiều modem internet bị tấn công, thay đổi cấu hình
+        
+
+            Ngày 14/11, hàng chục khách hàng tới chi nhánh FPT Bình Dương để yêu cầu sửa chữa modem internet. Theo các khách hàng này, bỗng dưng họ không vào mạng internet được nên kiểm tra thì thấy modem internet của nhà mình đã bị thay đổi cấu hình, còn tên mạng wifi cũng bị đổi tên thành “china hacker” hoặc dòng chữ khác.
+        
+Hiện tượng này đã xuất hiện hai tuần nay, nhưng trong ngày 14/11 số lượng khách hàng của FPT Bình Dương bị sự cố trên là nhiều nhất. 
+Một khách hàng tên N.V.T, cho biết: Đã lắp mạng của FPT, chi phí lắp đặt đã bao gồm một modem có chức năng phát wifi và có bốn cổng kết nối, nhưng khoảng 10h ngày 14/11, thấy không truy cập mạng được, nên khách hàng này đã phải mang modem tới công ty FPT để sửa.
+
+
+Theo đại diện chi nhánh FPT Bình Dương: Sự cố trên có thể do các modem bị tấn công và thay đổi mật khẩu, cấu hình, tên wifi nên khách hàng không truy cập mạng được. 
+Hiện vẫn chưa rõ nguyên nhân và ai gây ra sự cố này. Để khắc phục, chỉ cần đặt lại cấu hình modem là có thể truy cập mạng được. Công ty FPT cũng sẽ chặn chức năng log in vào modem từ mạng ngoài để cấu hình modem không thể bị thay đổi từ bên ngoài
+

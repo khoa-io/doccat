@@ -1,9 +1,0 @@
-
-Silk Road 2.0 đã bị chặn
-
-
-Cuộc bắt giữ còn giúp chính quyền nhiều nước thu được một lượng lớn tiền tệ ảo Bitcoin bị nghi là đã sử dụng trong giao dịch mua bán các chất gây nghiện.
-Silk Road (con đường tơ lụa) là một trang web ngầm, nổi lên đầu năm nay như một địa chỉ mua bán, tiêu thụ các chất cấm. Cộng đồng này khá độc đáo do có khả năng hoạt động dưới sự bao che của mạng ẩn danh Tor và có thể sử dụng tiền tệ ảo Bitcoin, vốn cũng có tính chất ẩn danh, để giao dịch.
-Tuy nhiên, một cuộc tấn công của chính quyền Mỹ và các nước khác hồi tháng 10-2013 đã đánh sập hệ thống hoạt động của Silk Road, bắt giữ người điều hành trang web này. Một phiên bản mới 2.0 của Silk Road liền được dựng lên gần như ngay sau đó.
-Tuy vụ bắt bớ kể trên có thể đã ngăn chặn sự hồi sinh hoàn toàn của Silk Road 2.0 nhưng giới công nghệ dự đoán nhiều trang web và dịch vụ tương tự sẽ mọc lên trong nay mai với tính chất ngày càng tinh vi hơn để buôn bán chất gây nghiện.
- 

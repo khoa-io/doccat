@@ -1,9 +1,0 @@
-10 smartphone Android siêu tốc nhất
-AnTuTu vừa công bố điểm benchmark của 10 smartphone Android có hiệu năng nhanh nhất trong Q3/2015, và kết quả cho thấy, chipset Exynos của Samsung đã có một chiến thắng rực rỡ.
-Quy trình sản xuất chip 14nm của Samsung được quảng cáo là mang đến tốc độ cực nhanh và khả năng tiết kiệm pin cho thiết bị. Có vẻ như nhà sản xuất không quá lời lắm khi mà cả 5 con dế đứng đầu trong danh sách AnTuTu đều trang bị chipset 8 lõi Exynos 7420. 5 gương mặt còn lại thì trang bị chipset cao cấp nhất của Qualcomm hiện nay là Snapdragon 810. 
-
-Tuy nhiên, con dế đứng đầu bảng xếp hạng mới thực sự đáng chú ý. Meizu PRO 5 không phải là smartphone đầu tiên nảy ra trong đầu mọi người khi nghĩ đến smartphone cao cấp, tối tân nhất. Nhưng do trang bị chip Exynos 7420, lại chỉ dừng lại ở độ phân giải màn hình 1080p, thay vì màn hình QHD 1440p của 4 con dế còn lại trong Top 5 nên việc Meizu PRO đứng đầu bảng xếp hạng với điểm số trung bình 76852 cũng không quá khó hiểu. 
-Mẫu phablet mới nhất của Samsung - Galaxy Note 5 đứng ở vị trí Á quân với số điểm 72156, trong khi Galaxy S6 Edge+ xếp hạng 3 với 70548 điểm. Hai smartphone cao cấp ra mắt hồi tháng 3 của Samsung đứng ở hai vị trí tiếp theo với số điểm lần lượt là 68946 cho Galaxy S6 và 67653 của Galaxy S6 Edge. 
-Ở phần cuối của Top 10, ngoại trừ Sony Xperia Z5 là smartphone của thương hiệu quốc tế, 4 gương mặt còn lại đều là thương hiệu Trung Quốc dù trang bị chipset Snapdragon 810. 
-T.C
-
